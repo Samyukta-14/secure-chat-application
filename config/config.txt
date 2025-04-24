@@ -1,5 +1,5 @@
 Username: alice
-Password: @lice_1452$
+Password: @lice_$
 
 
 Username: bob
