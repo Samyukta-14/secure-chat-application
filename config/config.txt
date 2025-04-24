@@ -3,7 +3,7 @@ Password: @lice_$
 
 
 Username: bob
-Password: B0b@130502#redS0x
+Password: B0b@#redS0x
 
 
 Username: charlie
