@@ -17,12 +17,12 @@ The application enables secure communication between users by integrating:
 
 ## 🚀 Features
 
-- 🔐 Secure login (SRP - no password transmission)
-- 🔑 Encrypted messaging (ECDH key exchange + AES-GCM)
-- 📶 Real-time chat via TCP sockets
-- 📋 Online user listing
-- 🚫 Message rate limiting (5 messages per 10 seconds)
-- 💡 Simple command-based interface
+-  Secure login (SRP - no password transmission)
+-  Encrypted messaging (ECDH key exchange + AES-GCM)
+-  Real-time chat via TCP sockets
+-  Online user listing
+-  Message rate limiting (5 messages per 10 seconds)
+-  Simple command-based interface
 
 ---
 
@@ -63,7 +63,7 @@ python src/client.py
 ```
 Then log in with one of the test usernames above.
 
-💬 Client Commands
+⌨️ Client Commands
 |      Commands      |              Description                  |
 |--------------------|-------------------------------------------|
 | connect <username> | Initiate secure chat with another user    |
