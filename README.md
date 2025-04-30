@@ -100,7 +100,3 @@ secure-chat-application/
 ├── .gitignore
 └── LICENSE
 ```
-
-## 👥 Contributors
-- Samyukta Kurikala (https://github.com/Samyukta-14)
-- Tanmay Sharma (https://github.com/d3adp0et)
