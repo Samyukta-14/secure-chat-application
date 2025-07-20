@@ -1,10 +1,12 @@
+
 # 🔐 Secure Instant Messaging System
+
 
 This project was developed as part of **CY6740: Network Security** at Northeastern University. It demonstrates a secure, terminal-based chat system built using modern cryptographic techniques in Python.
 
 ---
 
-## 📌 Overview
+## Overview
 
 The application enables secure communication between users by integrating:
 
@@ -15,7 +17,7 @@ The application enables secure communication between users by integrating:
 
 ---
 
-## 🚀 Features
+## Features
 
 -  Secure login (SRP - no password transmission)
 -  Encrypted messaging (ECDH key exchange + AES-GCM)
@@ -26,7 +28,7 @@ The application enables secure communication between users by integrating:
 
 ---
 
-## 🧪 Test Users
+## Test Users
 
 You can log in using the following credentials (preloaded in `server.py`):
 
@@ -51,7 +53,7 @@ cd secure-chat-application
 ```
 pip install -r requirements.txt
 ```
-## ▶️ How to Run
+## How to Run
 
 Start the Server
 ```
@@ -76,7 +78,7 @@ Then log in with one of the test usernames above.
 
 ⚠️ You must connect/accept before sending messages.
 
-## 🔐 Security Details
+## Security Details
 - Authentication: Uses SRP 
 - Key Exchange: ECDH 
 - Encryption: AES-256 in GCM mode 
@@ -85,7 +87,7 @@ Then log in with one of the test usernames above.
 
 All cryptographic operations are performed using standard libraries.
 
-## 📁 File Structure
+## File Structure
 ```
 secure-chat-application/
 ├── src/
@@ -100,7 +102,6 @@ secure-chat-application/
 ├── .gitignore
 └── LICENSE
 ```
-
 ## 👥 Contributors
 - Samyukta Kurikala (https://github.com/Samyukta-14)
 - Tanmay Sharma (https://github.com/d3adp0et)
