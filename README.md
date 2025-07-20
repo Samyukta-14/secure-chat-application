@@ -1,4 +1,6 @@
-# Secure Chat Application
+
+# 🔐 Secure Instant Messaging System
+
 
 This project was developed as part of **CY6740: Network Security** at Northeastern University. It demonstrates a secure, terminal-based chat system built using modern cryptographic techniques in Python.
 
